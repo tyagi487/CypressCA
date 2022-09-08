@@ -15,7 +15,7 @@
     "cypress-drag-drop": "^1.1.1",
     "dotenv": "^8.2.0",
     "faker": "^4.1.0",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^4.1.0",
     "simple-excel-reader": "^1.0.6",
     "xlsx": "^0.15.6"
   },
